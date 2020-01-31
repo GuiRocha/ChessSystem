@@ -4,7 +4,6 @@ import boardgame.Board;
 import boardgame.Position;
 import chess.pieces.King;
 import chess.pieces.Rock;
-import javafx.geometry.HPos;
 
 public class ChessMatch{
     private Board board;
